@@ -6,7 +6,7 @@
 /*   By: dalves-p <dalves-p@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/07/02 19:10:07 by dalves-p          #+#    #+#             */
-/*   Updated: 2021/08/19 11:18:17 by dalves-p         ###   ########.fr       */
+/*   Updated: 2021/09/17 16:08:43 by dalves-p         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,6 +17,7 @@
 # include <unistd.h>
 # include <stdint.h>
 # include <stdarg.h>
+
 typedef struct s_spec
 {
 	int		count;
